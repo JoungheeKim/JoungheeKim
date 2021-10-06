@@ -6,10 +6,9 @@
 </div>
 
 <div align=center>
-
-[![Blog Badge](http://img.shields.io/badge/-Study%20Note-black?style=flat-square&logo=github&link=https://joungheekim.github.io/)](https://joungheekim.github.io/) 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/takyoung-kim-03b091193/)](https://www.linkedin.com/in/takyoung-kim-03b091193/)  -->
+[![Blog Badge](http://img.shields.io/badge/-Tech%20Blog-black?style=flat-square&logo=github&link=https://joungheekim.github.io/)](https://joungheekim.github.io/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:onlyl4youu@gmail.com)](mailto:onlyl4youu@gmail.com)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/takyoung-kim-03b091193/)](https://www.linkedin.com/in/takyoung-kim-03b091193/)  -->
 
 </div>
 
