@@ -16,11 +16,10 @@
 
 ### Jounghee Kim 👋
 
-
-### Education
 - ```2020-``` M.S. Student at [Data Science & Business Analytics Lab.](http://dsba.korea.ac.kr/), School of Industrial Management Engineering, Korea University.
-- ```2013-2020``` Bachelor of Science in Engineering, Interdisciplinary Program of Convergent Software, Sungkyunkwan University.
-- ```2013-2020``` Bachelor of Media & Communication, Media & Communication, Sungkyunkwan University.
+- ```2015-2020``` Senior Engineer at [SK holdings C&C.](https://www.skcc.co.kr/), Korea.
+
+
 
 <!--
 **JoungheeKim/JoungheeKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
